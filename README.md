@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou Thiago!
+# 👋 Olá, eu sou o Thiago!
 
 🎓 Estudante de **Sistemas de Informação** 
 <br>
