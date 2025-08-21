@@ -3,7 +3,8 @@
 🎓 Estudante de **Sistemas de Informação** 2° Período
 <br>
 ❤️ Amo aprender novas tecnologias e usa-las para construir ferramentas interessantes!
-Atualmente trabalho na Transforma Educação
+<br>
+☑ Atualmente trabalho na Transforma Educação
 
 ---
 
