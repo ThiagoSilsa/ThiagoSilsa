@@ -38,8 +38,6 @@
 
 <a href='https://github.com/ThiagoSilsa/github-stats-transparent'>
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thiagosilsa&hide=prs,issues&show_icons=true&theme=codeSTACKr)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagosilsa&hide=yacc,game%20maker%20language,&layout=compact&theme=codeSTACKr)](https://github.com/nycolasfelipe/github-readme-stats)
 
 <div align=center>
   <img src="https://raw.githubusercontent.com/ThiagoSilsa/ThiagoSilsa/output/snake.svg" alt="Snake animation" />
