@@ -2,7 +2,7 @@
 
 🎓 Estudante de **Sistemas de Informação** 2° Período
 <br>
-❤️ Amo aprender novas tecnologias e usa-las para construir ferramentas interessantes!
+Estou atualmente aprendendo mais sobre Node.js e Docker
 <br>
 ☑ Atualmente trabalho na Transforma Educação
 
